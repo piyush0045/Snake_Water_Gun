@@ -1,0 +1,35 @@
+body{
+    height:100vh ;
+    background-color: rgb(32, 161, 32);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(102, 231, 233);
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+    font-style: oblique;
+    color: yellow;
+}
+h3{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: inherit;
+    color: coral;
+}
+h4{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: inherit;
+    color: rgb(127, 46, 16);
+}
+main{
+    box-sizing: border-box;
+    text-align: center;
+    background-color: rgb(27, 69, 167);
+    width: 50%;
+}

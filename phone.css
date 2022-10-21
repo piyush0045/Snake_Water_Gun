@@ -1,0 +1,8 @@
+body{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(27, 69, 167);
+}
+h1,h2,h3,h4{
+    font-size: 20px;
+}
